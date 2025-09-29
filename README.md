@@ -1,0 +1,2 @@
+# Banking-Dashboard-DataAnalysis-Project
+🚀 End to End Data Analyst Project using SQL, Python &amp; Power BI! This project explores a bank dataset to perform deep analysis: client behavior, monthly trends, customer lifetime value, loyalty segmentation &amp; more. Includes SQL queries, Python for Exploratory Data Analysis (EDA) and Power BI dashboards for insights using filers , slicers &amp; charts.
